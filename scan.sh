@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
 
 node_version=$1 #specify node version
 auth_token=$2 #snyk auth token
